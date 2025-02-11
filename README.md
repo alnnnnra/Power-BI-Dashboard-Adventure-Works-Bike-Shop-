@@ -1,6 +1,6 @@
 
-# Adventure works bike shop project on power bi
-
+# Adventure works bike shop project on Power bi
+![](https://github.com/alnnnnra/Power-BI-Dashboard-Adventure-Works-Bike-Shop-/blob/main/adventure%20works.png)
 ### Project Overview
 
 This Power BI project visualizes sales and customer data for the company AdventureWorks. The goal is to provide actionable insights into business performance, customer demographics, and sales trends to support strategic decision-making.
